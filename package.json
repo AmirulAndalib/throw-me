@@ -8,7 +8,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@babel/core": "^7.22.1",
+    "@babel/core": "^7.29.6",
     "@chakra-ui/icons": "^2.0.19",
     "@chakra-ui/react": "^2.6.1",
     "@emotion/react": "^11",
@@ -18,14 +18,14 @@
     "fetch": "^1.1.0",
     "framer-motion": "^10",
     "lru-cache": "^7.10.1",
-    "nanoid": "^4.0.2",
-    "next": "^13.4.4",
+    "nanoid": "^6.0.2",
+    "next": "^15.5.27",
     "node-fetch": "^3.3.1",
     "prisma": "^4.14.1",
-    "query-string": "^8.1.0",
+    "query-string": "^10.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router": "^6.11.2",
+    "react-router": "^7.18.2",
     "request-ip": "^3.3.0",
     "sweetalert": "^2.1.2",
     "url-encode-decode": "^1.0.0"
